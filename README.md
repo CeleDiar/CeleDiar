@@ -2,7 +2,7 @@
 
 A Transportation engineer with a background in project management, operational process execution and business analysis, passionate about Data Science 📊. I like problem-solving, connect with people, improving and optimizing systems ✅.
 
-- ✨ I’m currently based in the vibrant and multicultural city of Montreal,CA. 
+- ✨ I’m currently based in the vibrant and multicultural city of Montreal, CA. 
 - 🌱 I’m looking to grow and find new opportunities in the tech industry.
 - 💡 I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**.
 - 💬 Talk to me about Yoga 🧘🏻‍♀️, Movies 🎥, Memes, Travel 🌎 & Food 🍜.
