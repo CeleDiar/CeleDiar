@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Celeste,
+## Hi there 👋 I'm Celeste,
 
 A Transportation engineer with a background in project management, operational process execution and business analysis, passionate about Data Science 📊. I like problem-solving, connect with people, improving and optimizing systems ✅.
 
@@ -15,20 +15,20 @@ I'm always open to new ideas and opportunities. You can found me on [LinkedIn](h
 
 Here are some of the tools and technologies I'm proficient in:
 
-## Programming Languages
+### Programming Languages
 - **Python** 🐍
 - **SQL** (BigQuery, PostgreSQL, MySQL)
 
-## Data Science & Analytics
+### Data Science & Analytics
 - **Data Analysis** with Pandas, NumPy
 - **Data Visualization** with Matplotlib, Seaborn
 - **Statistics** with SciPy, Statsmodels
 
-## Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 - **Machine Learning** with Scikit-learn
 - **Deep Learning** with TensorFlow / Keras
 
-## Cloud & Tools
+### Cloud & Tools
 - **Google Cloud Platform (GCP)**
 - **MLflow**
 - **Streamlit** 
